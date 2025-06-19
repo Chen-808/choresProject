@@ -1,6 +1,9 @@
 html, body{
-    
+    margin: 20px;
+    padding: 0px;
+    text-align: center;
 }
 h1, button{
     font-family: 'Concert One', cursive;
+    
 }
