@@ -6,8 +6,9 @@ html, body{
 }
 
 .container{
-    
-    
+    background-color: #FED8B1;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 h1, button{
