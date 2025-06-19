@@ -2,8 +2,48 @@ html, body{
     margin: 20px;
     padding: 0px;
     text-align: center;
+    background-color: #e9edc9;
 }
-h1, button{
-    font-family: 'Concert One', cursive;
+
+.container{
     
+    
+}
+
+h1, button{
+    font-family: "Fragment Mono", monospace;
+}
+
+button{
+    border: none;
+    height: 28px;
+    width: 28px;
+}
+
+#arrowButton{
+    background-color: #ccd5ae;
+}
+
+#xButton{
+     background-color: #edafb8;
+}
+
+#textInput{
+    height:25px;
+}
+
+.listItem{
+    font-family: "Fragment Mono", monospace;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    
+}
+
+li{
+    background-color: #fefae0;
+    width: 250px;
+    margin: 0px auto 0px auto;
 }

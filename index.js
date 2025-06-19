@@ -16,5 +16,5 @@ xButton.addEventListener("click", function(){
 })
 
 function updateList(index){
-    choresList.innerHTML+=`<li> ${choresArray[index]} </li>`
+    choresList.innerHTML+=`<li class="listItem"> ${choresArray[index]} </li>`
 }
